@@ -3,3 +3,5 @@
 *.db
 *.csv
 *.log
+old_scripts/
+__pycache__/
