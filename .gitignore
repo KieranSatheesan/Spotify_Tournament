@@ -1,1 +1,5 @@
 .venv
+.env
+*.db
+*.csv
+*.log
